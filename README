@@ -1,0 +1,10 @@
+This Python language demo was written specifically for an LK204-7T-1U, but will function for any Matrix Orbital display.
+
+Currently, it contains functions to write data, send commands, and read a single byte from the display.
+
+Please visit matrixorbital.ca for more information including manuals for all Matrix Orbital displays.
+
+I am a part of the design and support teams at Matrix Orbital, but this is a project undertaken in my own time in an effort to learn Python, git, and ultimately experience what our customers do to provide better products and support in the future.
+
+Thanks,
+Troy
